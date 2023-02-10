@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+  background-color: #7987a3;
+  margin: auto;
+  justify-content: center;
+  color: white;
+  padding-top: 46px;
+  padding-bottom: 179px;
+}
+
+
+
+
+.cellInput{
+  color: rgb(0, 9, 11);
+  width: 50px;
+  height: 50px;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  padding: 0px;
+  border: 1px solid rgb(9, 0, 0);
+  border-radius: 2px;
+  /* background-color: black; */
+}
+table{
+  border-collapse:collapse;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: rgb(61, 87, 95);
+  border: solid rgb(129, 169, 98);
+  border-radius: 30px;
+  border-width: 5px;
+}
+td{
+  /* color: red; */
+  padding: 0px;
+}
+.buttonContainer{
+  margin-top: 20px;
+}
+.checkBtn{
+  cursor: pointer;
+  height: 40px;
+  width: 80px;
+  background-color: rgb(8, 198, 192);
+  font-weight: bold;
+  padding: 12px, 20px;
+  border: none;
+  border-radius: 30px;
+  font-size: 20px;
+  margin-right: 40px;
+}
+.solveBtn{
+  cursor: pointer;
+  height: 40px;
+  width: 80px;
+  background-color: rgb(21, 198, 12);
+  font-weight: bold;
+  padding: 12px, 20px;
+  border: none;
+  border-radius: 20px;
+  font-size: 20px;
+  margin-right: 40px;
+}
+
+
+.resetBtn{
+  cursor: pointer;
+  height: 40px;
+  width: 80px;
+  background-color: rgb(193, 183, 183);
+  font-weight: bold;
+  padding: 12px, 20px;
+  border: none;
+  border-radius: 20px;
+  font-size: 20px;
+}
+.bBorder{
+  border-bottom: 4px solid rgb(0, 0, 0);
+}
+.rBorder{
+  /* border-left: ; */
+  border-left: 4px solid rgb(0, 0, 0); 
+}
